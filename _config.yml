@@ -1,0 +1,9 @@
+title: SciML Leeds SENSE training
+logo: logo.png
+description: 7th March 2024
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+github:
+  zip_url: http://example.com/download.zip
+  tar_url: http://example.com/download.zip
