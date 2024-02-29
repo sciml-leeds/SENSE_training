@@ -5,5 +5,5 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 github:
-  zip_url: http://example.com/download.zip
+  zip_url: https://gws-access.jasmin.ac.uk/public/sensecdt/eesjb/sense_ae.zip
   tar_url: http://example.com/download.zip
