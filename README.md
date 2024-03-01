@@ -19,13 +19,13 @@ After training, we will visualise the reconstructed images, gaining insights int
 
 # Getting Started
 
-Colab Notebook: Access our interactive Colab notebook where you can run code and experiment with the autoencoder model in real-time.
-
 <a target="_blank" href="https://colab.research.google.com/drive/1PH1J9jEvPsdK1z23YQsthtJ_KMm71PQr?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 [Introductory Slides](https://docs.google.com/presentation/d/1SUI94od5W9b2ikHK8bQNPYzOQ15oN8REe7p9FWBEPH8/edit?usp=sharing)
+
+[Treasure Hunt](https://sciml-leeds.github.io/SENSE_training/encrypted.html)
 
 🛰️🔍
 
