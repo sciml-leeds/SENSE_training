@@ -1,7 +1,7 @@
 # SciML Leeds SENSE training
 
 ## Using Autoencoders for Satellite Imagery Exploration
-In this training, we will use autoencoders, a type of artificial neural network, to analyze and extract meaningful information from satellite imagery covering the landscapes of the UK. Autoencoders are particularly useful for tasks like image denoising, feature extraction, and even generation of new images.
+In this training, we will use autoencoders, a type of artificial neural network, to analyse and extract meaningful information from satellite imagery covering the landscapes of the UK. Autoencoders are particularly useful for tasks like image denoising, feature extraction, and even generation of new images.
 
 ## What to Expect
 
