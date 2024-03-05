@@ -3,20 +3,6 @@
 ## Using Autoencoders for Satellite Imagery Exploration
 In this training, we will use autoencoders, a type of artificial neural network, to analyse and extract meaningful information from satellite imagery covering the landscapes of the UK. Autoencoders are particularly useful for tasks like image denoising, feature extraction, and even generation of new images.
 
-## What to Expect
-
-### Introduction to Autoencoders: 
-We will start with an overview of autoencoders, understanding how they work and their applications in image analysis.
-
-### Processing Satellite Imagery: 
-Learn how to preprocess and prepare satellite imagery data for input into the autoencoder model.
-
-### Training the Autoencoder: 
-Step through the process of training an autoencoder model using Keras, exploring how it learns to represent the unique features of UK landscapes.
-
-### Visualising Results: 
-After training, we will visualise the reconstructed images, gaining insights into the model's understanding of the satellite data.
-
 # Getting Started
 
 <a target="_blank" href="https://colab.research.google.com/drive/1PH1J9jEvPsdK1z23YQsthtJ_KMm71PQr?usp=sharing">
