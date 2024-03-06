@@ -13,6 +13,8 @@ After training, we will visualise the reconstructed images, gaining insights int
 
 # Getting Started
 
+Starter Notebook:
+
 <a target="_blank" href="https://colab.research.google.com/drive/1PH1J9jEvPsdK1z23YQsthtJ_KMm71PQr?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
